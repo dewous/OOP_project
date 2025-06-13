@@ -27,8 +27,8 @@ npm start
 
 ## Итог
 
-![Результат] (./assets/1.jpg)
-![Результат] (./assets/2.jpg) 
+![Результат](./assets/1.jpg)
+![Результат](./assets/2.jpg) 
 
 
 
